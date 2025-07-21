@@ -24,8 +24,8 @@ Este proyecto es una Pokédex en línea de comandos que utiliza la [PokéAPI](ht
 Clona el repositorio y entra en la carpeta:
 
 ```bash
-git clone https://github.com/tuusuario/pokedex-python.git
-cd pokedex-python
+git clone https://github.com/Aro27/Pokedex-Python.git
+cd Pokedex-Python
 ```
 
 ## Uso
